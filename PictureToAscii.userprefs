@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{A187CE23-EF87-4009-8A2C-524A2245ABDA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PictureToAscii/Program.cs">
     <Files>
-      <File FileName="PictureToAscii/Program.cs" Line="9" Column="13" />
+      <File FileName="PictureToAscii/Program.cs" Line="46" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/jyw/Desktop/PictureToAscii/PictureToAscii/Program.cs" relfile="PictureToAscii/Program.cs" line="39" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.PictureToAscii PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
